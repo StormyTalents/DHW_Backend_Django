@@ -20,9 +20,3 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('members/', include('members.urls')),
 ]
-
-
-sdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdf
-sdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdf
-sdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdf
-sdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdf
